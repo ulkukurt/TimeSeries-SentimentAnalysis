@@ -1,1 +1,3 @@
 # Time_Series-Sentiment
+
+In this project, we will examine the recall campaigns for auto manufacturers. This campaigns affect day-to-day business at the dealerships which cause a drop in new vehicle sales, part sales or tire replacements. Since understanding the frequency and size of recalls is important for any company in the automotive industry, we will start with subseting on vehicles and tire manufacturers, and analyze trends in the data. Then, we will analyze the number of campaigns and the number of vehicles affected by specific recall campaigns according to the report dates as well as the trends for each manufacturer.
